@@ -1,0 +1,501 @@
+City,Temperature (Celsius),Description,Humidity
+Ḩeşār-e Sefīd,0.02,clear sky,86
+‘Ayn Ḩalāqīm,7.66,broken clouds,78
+Taglag,0.18,clear sky,69
+Qabāghlū,4.99,overcast clouds,28
+‘Arīqah,11.51,clear sky,63
+Kalāteh-ye Dowlat,3.05,few clouds,81
+Behjatābād,12.01,clear sky,76
+Ţālesh Maḩalleh,12.92,clear sky,82
+Shahrīār Kandeh,10.96,mist,100
+Bālā Aḩmad Kolā,11.17,few clouds,68
+Aş Şūrah aş Şaghīrah,3.18,clear sky,65
+Āqdūz,-0.91,clear sky,62
+Āzādshahr,-0.73,clear sky,69
+Gollar,-0.83,clear sky,51
+Dīgāleh,-1.06,clear sky,59
+Qarālar-e Mīrzā Ḩoseynqolī,-0.97,clear sky,59
+Protaras,12.95,few clouds,66
+Kahrīz,0.04,clear sky,86
+Nūrābād,6.42,overcast clouds,35
+Rokan Sarā,11.99,broken clouds,100
+Zīrjān,5.36,clear sky,48
+Dahasuways,22.8,clear sky,62
+Ash Shihr,24.93,clear sky,71
+Al Ghaylah,13.69,broken clouds,59
+Judaydah,17.45,overcast clouds,53
+Dawran,15.63,overcast clouds,44
+Najd al Jama`i,13.75,overcast clouds,55
+Zalmah al `Ulya,12.93,broken clouds,52
+Suq ar Rubu`,13.41,scattered clouds,51
+Ash Shuqayrah,21.3,overcast clouds,70
+Mashraah,13.47,overcast clouds,56
+Ar Rawnah,18.63,overcast clouds,65
+Ramadi,13.74,scattered clouds,52
+Al Ahad,19.1,few clouds,53
+Ad Dil`,14.02,broken clouds,47
+Al Jabin,11.63,overcast clouds,56
+Badrābād-e `Olyā,1.95,clear sky,69
+Īstgāh-e Rāh Āhan-e Garmsār,10.73,broken clouds,48
+Qarchak,9.37,scattered clouds,44
+Suq Sirwah,16.29,overcast clouds,50
+Majzar,17.73,broken clouds,52
+Bidbadah,11.6,broken clouds,61
+Matwah,13.93,broken clouds,54
+Şuwayr,10.52,clear sky,59
+Wadarah,19.77,scattered clouds,58
+Suq Shamar,19.56,few clouds,60
+Mustaba,25.46,few clouds,63
+An Nazir,15.49,clear sky,50
+Dayr al Hisi,25.82,few clouds,69
+Tabrīz Jānī,1,clear sky,60
+Andīmeshk,14.87,broken clouds,61
+Ravīndūzaq,-1.88,scattered clouds,42
+Māmā’ī,9.94,broken clouds,93
+Reẕāābād,0.04,scattered clouds,100
+Khorramdarreh,6.09,overcast clouds,39
+Kūchaklī,2.85,overcast clouds,44
+Koshtārgāh,9,few clouds,81
+Jozf-e Soflá,8.99,few clouds,71
+Rwanda,15.95,overcast clouds,97
+Yeed,25.02,scattered clouds,52
+Oddur,23.19,broken clouds,69
+Xarardheere,24.38,broken clouds,79
+Woqooyi Galbeed,18.53,overcast clouds,88
+Wanlaweyn,26.14,overcast clouds,61
+Waajid,24.49,broken clouds,62
+Togdheer,18.13,overcast clouds,69
+Tayeeglow,23.54,scattered clouds,70
+Somalia,24.89,overcast clouds,55
+Lower Shabeelle,26.05,overcast clouds,68
+Middle Shabele,24.39,broken clouds,72
+Sanaag,16.48,broken clouds,53
+Saacow,26.57,overcast clouds,69
+Qoryooley,25.91,overcast clouds,67
+Qandala,25.85,overcast clouds,66
+Qaloocan,15.08,overcast clouds,92
+Oodweyne,19,overcast clouds,62
+Nugaal,22.15,few clouds,54
+Mogadishu,27.18,overcast clouds,73
+Mudug,24.74,scattered clouds,50
+Merca,26.81,overcast clouds,69
+Mahaddayweyne,25.48,overcast clouds,67
+Luuq,26.83,scattered clouds,49
+Lughaye,26.19,broken clouds,71
+Las Khorey,25.87,overcast clouds,65
+Kismayo,27.14,overcast clouds,80
+Lower Juba,25.14,overcast clouds,87
+Middle Juba,25.71,overcast clouds,79
+Jilib,26.1,overcast clouds,83
+Giohar,25.39,overcast clouds,70
+Jamaame,26.2,overcast clouds,84
+Jalalaqsi,25.49,overcast clouds,65
+Iskushuban,23.72,overcast clouds,51
+Hobyo,26.63,broken clouds,75
+Hiiraan,25.47,broken clouds,65
+Hargeisa,15.75,overcast clouds,92
+Gedo,25.51,scattered clouds,54
+Garoowe,22.8,broken clouds,56
+Garbahaarrey,26.67,scattered clouds,50
+Galguduud,25.15,scattered clouds,60
+Gaalkacyo,24.7,broken clouds,53
+Eyl,25.36,broken clouds,64
+El Dubat,20.98,scattered clouds,48
+El Ad,26.36,overcast clouds,65
+Dujuuma,25.86,overcast clouds,80
+Doon,23.86,broken clouds,76
+Dusa Marreb,24.76,overcast clouds,55
+Dalooldho,15.57,overcast clouds,92
+Cheli Gu,24.86,scattered clouds,68
+Erigavo,13.98,overcast clouds,52
+Ceeldheer,26.02,scattered clouds,72
+Ceelbuur,25.18,broken clouds,60
+Ceek,20.29,overcast clouds,60
+Alula,26.7,broken clouds,66
+Cadale,26.62,scattered clouds,72
+Buurhakaba,25.6,overcast clouds,69
+Buur Gaabo,27.17,broken clouds,80
+Buulobarde,25.38,broken clouds,65
+Burao,18.44,broken clouds,72
+Bu’aale,25.84,overcast clouds,81
+Bosaso,26.21,overcast clouds,65
+Bereeda,26.42,broken clouds,67
+Berbera,26.47,broken clouds,70
+Beledweyne,25.25,few clouds,67
+Behelidle,27.22,broken clouds,57
+Baidoa,23.87,broken clouds,73
+Bay,23.5,broken clouds,75
+Bari,20.93,overcast clouds,62
+Bargaal,25.94,overcast clouds,68
+Bandarbeyla,26.34,broken clouds,67
+Banaadir,26.58,overcast clouds,74
+Baardheere,27.55,broken clouds,56
+Afgooye,25.96,overcast clouds,69
+Cadayo,25.13,broken clouds,60
+Yasuj,2.75,clear sky,52
+Shāhrūd,6.61,few clouds,60
+‘Abbāsābād-e Qūsheh,0.25,clear sky,64
+At Tawilah,8.82,scattered clouds,58
+Zinjibar,25.5,overcast clouds,74
+Zarajah,9.09,broken clouds,70
+Az Zahir,11.79,broken clouds,64
+Zabid,25.18,scattered clouds,70
+Zabid,25.04,scattered clouds,70
+Yufrus,19.59,overcast clouds,56
+Yemen,15.76,broken clouds,55
+Yarim,8.49,broken clouds,69
+Yarim,7.71,broken clouds,72
+Washhah,17.2,clear sky,50
+Walan,9.03,overcast clouds,70
+Dhi Jalal,18.67,overcast clouds,57
+Usaylan,18.36,broken clouds,50
+Ubal,23.89,overcast clouds,65
+Thamud,18.01,clear sky,45
+Tarim,19.5,broken clouds,56
+At Ta'izziyah,19.79,overcast clouds,56
+Muhafazat Ta`izz,18.18,overcast clouds,56
+Ta`izz,10.31,broken clouds,56
+Taizz,19.17,overcast clouds,56
+As-Suwayda,10.59,clear sky,63
+Al `Inan,10.56,clear sky,66
+Abs,25.55,few clouds,68
+Sif,17.72,broken clouds,62
+Shuhayr,25.12,few clouds,64
+Shihan as Sufla,18,clear sky,44
+Shibam,8.16,scattered clouds,67
+Ash Sharyah,12.04,broken clouds,58
+Sharas,20.1,scattered clouds,56
+Shaharat al Ghis,10.23,few clouds,47
+Shabwah,16.66,scattered clouds,54
+Sayyan,8.75,overcast clouds,69
+Sayhut,26.34,few clouds,55
+Sanhan,9.46,overcast clouds,68
+Sanaa,10.46,broken clouds,65
+Sanaa,10.46,broken clouds,65
+Sanaa,10.46,broken clouds,65
+Sohar,24.61,clear sky,66
+Sah,18.77,broken clouds,58
+Muhafazat Sa'dah,11.71,clear sky,66
+Sadah,12.13,clear sky,65
+Rihab,16,broken clouds,61
+Rada,11.03,scattered clouds,65
+Raymah,12.11,broken clouds,51
+Ar Raydah,26.19,few clouds,56
+Raydah,10.44,scattered clouds,71
+Rakkat al `Askari,16.71,scattered clouds,54
+Rudum,24.06,scattered clouds,55
+Qalansiyah,26.48,overcast clouds,68
+Qishn,25.63,few clouds,63
+Qatabah,17.86,broken clouds,53
+Nisab,18.46,broken clouds,43
+Al Musaymir,21.77,overcast clouds,67
+Mukayras,11.25,broken clouds,58
+Mudiyah,20.84,overcast clouds,50
+Markaz Mudhaykirah,15.49,overcast clouds,51
+Mori,26.21,overcast clouds,67
+Minwakh,17.61,few clouds,54
+Mayfaah,22.91,scattered clouds,46
+Medi,27.23,clear sky,69
+Mawza,24.3,overcast clouds,67
+Mawiyah,18.28,overcast clouds,56
+Al Jawl,22.99,scattered clouds,51
+Marib City,18.55,overcast clouds,49
+Muhafazat Ma'rib,18.67,overcast clouds,48
+Muhafazat Ma'rib,18.67,overcast clouds,48
+Manakhah,13.05,overcast clouds,44
+Milah,10.66,scattered clouds,68
+Al Malahit,24.66,clear sky,55
+Al Mafud,18.14,scattered clouds,56
+Mafhaq,16.45,broken clouds,48
+Al Madid,10.96,scattered clouds,72
+Mabar,9.39,broken clouds,70
+Al Ma`alla',26.25,overcast clouds,73
+Lawdar,19.53,overcast clouds,53
+Muhafazat Lahij,21.73,overcast clouds,80
+Kuhlan `Affar,11.6,scattered clouds,56
+Kuaydinah,21.19,few clouds,65
+Kitaf,11.64,clear sky,64
+Kilmia,26.77,overcast clouds,66
+Khawr Maksar,26.17,overcast clouds,74
+Khawrah,17.41,broken clouds,51
+Khamir,9.07,scattered clouds,65
+Juban,28.31,broken clouds,82
+Jihanah,9.92,overcast clouds,72
+Jiblah,13.74,overcast clouds,53
+Jawf al Maqbabah,20.08,overcast clouds,53
+Muhafazat al Jawf,16.48,few clouds,57
+Jaar,24.59,overcast clouds,75
+Ibb,14.04,overcast clouds,56
+Ibb,14.04,overcast clouds,56
+Huth,12.22,few clouds,57
+As Salasil,16.37,few clouds,57
+Al `Abr,17.52,broken clouds,57
+Hays,15.28,overcast clouds,92
+Hayfan,15.99,overcast clouds,64
+Hawf,24.77,clear sky,59
+Haswayn,25.74,few clouds,70
+Harib,17.97,broken clouds,51
+Harad,25.95,clear sky,66
+Hammam `Ali,14.75,scattered clouds,62
+Ḩajjah,9.7,clear sky,65
+Hajjah,15.5,scattered clouds,56
+Madinat Lab`us,10.82,broken clouds,58
+Muhafazat Hadramawt,19.03,broken clouds,56
+Hadibu,26.25,overcast clouds,67
+Habil al Jabr,21.74,overcast clouds,60
+Al Habilayn,21.97,overcast clouds,66
+Habban,19.25,broken clouds,52
+Hababah,8.31,scattered clouds,65
+Ghayl Ba Wazir,24.52,few clouds,59
+Dhubab,25.46,overcast clouds,76
+Dhi Na`im,12.18,broken clouds,65
+Dhaybin,12.3,scattered clouds,66
+Dhi as Sufal,14.92,overcast clouds,52
+Dhi as Sufal,15.57,overcast clouds,52
+Madinat Dhamar,9.01,scattered clouds,70
+Muhafazat Dhamar,9,scattered clouds,69
+Dhamar,8.63,scattered clouds,71
+Dawran ad Daydah,9.38,scattered clouds,67
+Dar an Nasir,16.09,overcast clouds,56
+Burum,25.27,few clouds,66
+Bayt `Adhaqah,9.48,scattered clouds,56
+As Suq al Jadid,10.42,scattered clouds,71
+Bayt al Faqih,25.25,overcast clouds,71
+Bayt al Faqih,25.18,overcast clouds,69
+Bayhan,18.15,broken clouds,52
+Bani Hujjaj,22.03,scattered clouds,70
+Bani Bakr,11.27,broken clouds,61
+Bajil,24.88,scattered clouds,76
+Bajil,24.88,scattered clouds,76
+Az Zuhrah,25.83,scattered clouds,78
+Az Zaydiyah,25.77,broken clouds,77
+Az Zahir,11.79,broken clouds,64
+Al Hajab,17.53,broken clouds,54
+Al `Awabil,13.16,broken clouds,52
+At Turbah,14.73,overcast clouds,60
+At Tuhayta',25.26,scattered clouds,71
+At Tawahi,26.16,overcast clouds,74
+Ataq,17.7,broken clouds,49
+As Sudah,13.85,scattered clouds,50
+As Sayyani,15.29,overcast clouds,51
+As Sawma`ah,11.85,broken clouds,58
+Al Bilad,20.12,scattered clouds,54
+As Sawadiyah,12.06,broken clouds,63
+As Salif,27.17,broken clouds,75
+Said,17.69,broken clouds,50
+As Safaqayn,13.54,scattered clouds,62
+As Saddah,11.08,broken clouds,67
+Ash Shaykh `Uthman,25.64,overcast clouds,75
+Ash Shatt,22.72,overcast clouds,79
+Ash Shahil,17.19,few clouds,58
+Ash Shaghadirah,19.54,scattered clouds,53
+Asdas,18.11,broken clouds,50
+Marbat,15.96,broken clouds,49
+Ar Rawdah,10.59,scattered clouds,65
+Ar Rawdah,10.59,scattered clouds,65
+An Nadirah,11.63,overcast clouds,65
+Amran,10.35,scattered clouds,69
+Amd,15.76,broken clouds,62
+Al Wuday`,20.75,overcast clouds,61
+Al `Udayn,18.88,overcast clouds,47
+Al Qurh,19.34,scattered clouds,49
+Al Qaryah,11.29,broken clouds,58
+Al Qanawis,25.76,broken clouds,76
+Al Qaflah,16.77,few clouds,51
+Qaryat al Qabil,10.35,scattered clouds,67
+Al Ma`udah,11.86,overcast clouds,64
+Al Munirah,26.16,broken clouds,76
+Mukalla,25.4,few clouds,61
+Al Misrakh,18.73,overcast clouds,56
+Al Milah,22.18,overcast clouds,71
+Al Mighlaf,25.29,broken clouds,78
+Markaz al Marir,24.56,scattered clouds,64
+Al Marawi`ah,25.41,broken clouds,76
+Al Mansuriyah,25.22,overcast clouds,72
+Al Mansurah,15.13,scattered clouds,86
+Al Makhadir,15.06,broken clouds,60
+Al Makdash,19.44,broken clouds,51
+Al Mahwit,13.39,scattered clouds,51
+Al Mahfid,22.05,broken clouds,50
+Al Mahabishah,17.15,few clouds,52
+Al Luhayyah,26.62,scattered clouds,77
+Kirsh,20.99,overcast clouds,71
+Al Khawkhah,25.51,broken clouds,72
+Al Khasamah,8.53,broken clouds,63
+Al Jurbah,11.66,broken clouds,53
+Al Jarrahi,24.87,scattered clouds,70
+Al Husayn,17.73,broken clouds,51
+Huraydah,18.72,broken clouds,58
+Al Hudaydah,26.29,broken clouds,75
+Muhafazat al Hudaydah,25.17,broken clouds,76
+Al Hazm,18.09,scattered clouds,51
+Al Qatan,19.09,broken clouds,58
+Al Harf,14.12,clear sky,58
+Al Hamzat,12.08,clear sky,66
+Hajar al Masha'ikh,15.59,scattered clouds,59
+Al Habit,20.41,overcast clouds,47
+Al Ghayzah,24.97,clear sky,60
+Al Fujayr,19.42,broken clouds,56
+Al Bayḑā’,11.42,clear sky,79
+Al Bayda Governorate,11.84,overcast clouds,64
+Al Batinah,17.52,broken clouds,60
+Al `Aqir,17.34,overcast clouds,56
+Ahwar,24.33,broken clouds,76
+Ad Durayhimi,26.12,overcast clouds,75
+Ad Dis ash Sharqiyah,25.32,clear sky,58
+Ad Dimnah,18.93,overcast clouds,61
+Ad Dann,12.25,few clouds,45
+Az Zali`ah,14.42,broken clouds,68
+Dhalie,17.04,overcast clouds,53
+Dhahi,25.57,broken clouds,77
+Aden,25.7,overcast clouds,75
+Muhafazat Abyan,17.56,overcast clouds,67
+Al Bardīyah,16.63,clear sky,47
+Tobruk,17.04,clear sky,60
+Qaryat Sulūq,15.43,clear sky,81
+Kamb al ‘Ajjāj,15.92,clear sky,75
+Gialo,13.81,clear sky,37
+Darnah,17.09,clear sky,78
+Darnah,17.09,clear sky,78
+Benghazi,18.26,clear sky,71
+Az Zuwaytīnah,17.12,clear sky,74
+Awjilah,14.11,clear sky,37
+At Tāj,13.28,clear sky,36
+Aş Şafşāf,11.45,clear sky,78
+Ash Shawāshinah,14.08,clear sky,37
+Al ‘Urūbah,18.26,clear sky,71
+Tūkrah,16.74,clear sky,76
+Al Qubbah,11.73,clear sky,81
+Al Marj,13.14,clear sky,81
+Al Marj,13.14,clear sky,81
+Al Kufrah,13.3,clear sky,36
+Al Jawf,14.46,clear sky,60
+Al Jaghbūb,12.35,clear sky,49
+Al Bayḑā’,11.42,clear sky,79
+Al Abyār,13.95,clear sky,79
+Ajdabiya,15.66,clear sky,75
+Basra Governorate,13.29,clear sky,39
+Zakho,9.95,broken clouds,46
+Muhafazat Wasit,12.44,few clouds,46
+Umm Qaşr,8.93,clear sky,34
+Ūlwur,12.08,overcast clouds,40
+Tuz Khurmatu District,12.46,overcast clouds,45
+Tikrit,12.53,overcast clouds,50
+Tallkayf,10.03,overcast clouds,54
+Sulaymānīyah,13.54,overcast clouds,52
+Sīnah,8.76,overcast clouds,43
+Samarra,12.69,overcast clouds,49
+Salah ad Din Governorate,12.5,overcast clouds,50
+Nāḩīyat Saddat al Hindīyah,12.55,few clouds,53
+Aḩmad Ţāhir,13.5,overcast clouds,42
+Ṟuwandiz,8.75,broken clouds,31
+Rāwah,12.35,broken clouds,54
+Qāzaw al ‘Ulyā,4.38,overcast clouds,35
+Qaryat Bānī Mālik,13.66,clear sky,35
+Al-Hamdaniya District,10.53,broken clouds,55
+Qal‘at as Sādah,8.99,clear sky,71
+Niskah Jaww,4.29,overcast clouds,34
+Nineveh,10.71,overcast clouds,58
+Mudarras,12.4,few clouds,47
+Maysan,12.34,few clouds,49
+Mandalī,13.29,broken clouds,44
+Koysinceq,9.81,overcast clouds,37
+Kifrī,13.45,overcast clouds,38
+Raḩbah,13.54,clear sky,53
+Kirkuk,11.82,overcast clouds,42
+Karīm Āwah,4.25,overcast clouds,36
+Muḩāfaz̧at Karbalā’,14.94,clear sky,54
+Karbala,13.92,clear sky,57
+Kānī Mīr,4.18,overcast clouds,35
+Kānī Khākī,2.24,overcast clouds,34
+Kānī Kawah al Qadīmah,4.41,overcast clouds,37
+Kānī Kawah Jabūkh,4.35,overcast clouds,36
+Kānī Bardīnah,10.75,overcast clouds,37
+Jalīb Shihāb,13.7,clear sky,52
+Muḩāfaz̧at Arbīl,10.32,overcast clouds,43
+Erbil,10.29,overcast clouds,42
+Hīt,13.24,overcast clouds,50
+Hamādīyah,12.04,overcast clouds,48
+Halabja,10.6,overcast clouds,33
+Ḩājj Sallūm,8.99,scattered clouds,44
+‘Arab Ḩasan as Suhayl,9,clear sky,71
+Ḩadīthah,13.45,overcast clouds,52
+Diyālá,12.81,overcast clouds,48
+Dīwānīyah,9.02,scattered clouds,44
+Dahuk,8.59,overcast clouds,44
+Dhi Qar,13.58,clear sky,47
+Dahuk,8.59,overcast clouds,44
+Jamjamāl,3.19,overcast clouds,36
+Buzan,6.44,overcast clouds,26
+Bayjī,12.44,overcast clouds,52
+Baqubah,12.28,broken clouds,50
+Baynjiwayn,7.15,overcast clouds,26
+Balad,12.48,overcast clouds,49
+Mayorality of Baghdad,9.01,clear sky,71
+Baghdad,8.95,clear sky,71
+Muḩāfaz̧at Bābil,12.53,clear sky,45
+Az Zubayr,13.82,clear sky,35
+Qaryat ‘Ayn Nāşir,10.29,overcast clouds,57
+Kirkuk,11.99,overcast clouds,49
+Aş Şuwayrah,12.34,few clouds,44
+Sulaymaniyah,2.24,clear sky,100
+Sulaymaniyah,0.98,overcast clouds,29
+As Samawah,14.17,clear sky,47
+Nāḩiyat ash Shināfīyah,13.66,clear sky,54
+Ash Shaţrah,13.08,few clouds,39
+Ash Shāmīyah,13.3,clear sky,50
+Ar Ruţbah,10.44,scattered clouds,66
+Ar Rumaythah,13.49,clear sky,45
+Ar Rumaylah,13.27,clear sky,38
+Ramadi,13.74,scattered clouds,52
+Qaryat al ‘Arbīd,10.07,broken clouds,57
+Nasiriyah,13.4,clear sky,43
+Najaf,13.94,clear sky,54
+An Najaf,12.73,clear sky,48
+‘Anat al Qadīmah,12.45,broken clouds,53
+Imam Qasim,12.71,clear sky,44
+Muḩāfaz̧at al Qādisīyah,13.74,clear sky,48
+Muḩāfaz̧at al Muthanná,12.92,clear sky,50
+Al Musayyib,12.47,few clouds,53
+Al Mishkhāb,13.67,clear sky,55
+Al Miqdādīyah,12.68,overcast clouds,49
+Al Mawşil al Jadīdah,10.35,overcast clouds,56
+Mosul,10.55,overcast clouds,56
+Al-Mejar Al-Kabi District,12.45,few clouds,41
+Kut,12.8,few clouds,44
+Kufa,13.72,clear sky,53
+Khāliş,12.33,overcast clouds,49
+Iraq,8.95,broken clouds,58
+Al Imām,12.53,clear sky,45
+‘Alī al Gharbī,12.2,scattered clouds,53
+‘Alī al Aḩmad,8.96,scattered clouds,54
+Al Hindīyah,13.02,clear sky,55
+Al Hillah,12.83,clear sky,49
+Al Ḩayy,12.52,clear sky,42
+Al Hārithah,13.13,clear sky,37
+Nahiyat Ghammas,13.65,clear sky,54
+Nāḩiyat al Fuhūd,13.3,clear sky,39
+Al Fāw,9,few clouds,38
+Fallujah,8.94,scattered clouds,56
+Basra,8.98,clear sky,34
+Al Barjisīyah,13.61,clear sky,37
+Al ‘Azīzīyah,12.35,scattered clouds,46
+Al Anbar,10.89,scattered clouds,55
+Alan,11.48,overcast clouds,36
+Amara,12.4,few clouds,46
+‘Afak,12.82,clear sky,40
+Dujail,12.38,overcast clouds,48
+Ad Dīwānīyah,12.98,clear sky,41
+Abū Muḩammad,8.99,clear sky,71
+Abu Ghraib,8.97,clear sky,71
+Yanbu,23.02,clear sky,83
+Umluj,24.02,clear sky,68
+Umm as Sāhik,14.1,clear sky,47
+Turaif,7.14,clear sky,70
+Turabah,17.66,clear sky,49
+At Tūbī,14.1,clear sky,46
+Tārūt,14.12,clear sky,48
+Tanūmah,15.56,few clouds,45
+Tamrah,16.06,clear sky,46
+Tabuk,13.94,overcast clouds,48
+Tabuk,28,scattered clouds,73
